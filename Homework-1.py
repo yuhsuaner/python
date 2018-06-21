@@ -5,7 +5,11 @@ for i in range(5):
     n = (int(input("Enter a Number:")))
     l.append(n)
 print(sum(l))
+<<<<<<< HEAD
 print(max(l))
 
 
 # chanege
+=======
+print(max(l))
+>>>>>>> cc81372387c57336f84c94de525733e4c77a350d
